@@ -93,9 +93,12 @@ ___
 4\. **Train the model**: Choose an algorithm
 <img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image31.svg" width="30" height="30">and hyperparameter values based on trial
 and error.
+
 ___
 
 5\. **Integrate the model**: Deploy to an endpoint to generate <img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image33.svg" width="30" height="30">predictions <img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image35.svg" width="30" height="30">
+
 ___
+
 6\. **Monitor the model**: Track <img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image37.svg" width="30" height="30"> the model\'s performance
 ___
