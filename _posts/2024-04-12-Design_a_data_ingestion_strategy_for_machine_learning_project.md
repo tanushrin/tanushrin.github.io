@@ -20,6 +20,7 @@ Find data sources
 <img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image6.png" width="300" height="300"> 
 
 ***Three Different data formats***
+|---|
 
 1.  **Tabular** or **structured** data
     <img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image8.svg" width="30" height="30">
@@ -41,42 +42,31 @@ ___
 transform<img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image26.svg" width="30" height="30"> the data based on the model\'s
 requirements.
 
--   Separate compute from storage
+- 3.1.  Separate compute from storage
+<br>
 
-
--   Move and transform data
-
-
-       **Data ingestion pipeline (**manual or scheduled**):** sequence of
+- 3.2.  Move and transform data<br>
+       **Data ingestion pipeline (manual or scheduled):** sequence of
         tasks that move and transform the data
     
 
      ***Choices to create a pipeline:***
-     
-    <div style="padding-left: 20px;">
-        
-    ><p><b>i. Azure Synapse Analytics/Azure Synapse Pipelines:</b><br>
-        This tool can be configured using an easy-to-use UI, or by defining the pipeline in JSON format. It uses different types of computes such as serverless SQL pools, dedicated SQL pools, or Spark pools.
+
+
+| Tool                         | Description                                                                                                      |
+|------------------------------|------------------------------------------------------------------------------------------------------------------|
+| **Azure Synapse Analytics / Azure Synapse Pipelines** | Configurable via an easy-to-use UI or JSON. Uses serverless SQL pools, dedicated SQL pools, or Spark pools. |
+| **Azure Databricks**         | Code-first tool, uses SQL, Python, or R. Utilizes Spark clusters.                                                |
+| **Azure Machine Learning**   | Provides compute clusters that automatically scale up and down. |
+| **Azure Cognitive Services** | Offers Custom Vision to train a custom computer vision model.                                                    |
+| **Scikit-learn**             | A machine learning library for Python.                                                                           |
+
     
-    ><p><b>ii. Azure Databricks:</b><br>
-        If you prefer a code-first tool and to use SQL, Python, or R. It uses Spark clusters.
-    
-    ><p><b>iii. Azure Machine Learning:</b><br>
-        Provides compute clusters that automatically scale up and down.
-        NOTE➡️ Azure Synapse Analytics and Azure Databricks offer more scalable compute options.
-    
-    ><p><b>iv. Azure Cognitive Services:</b><br>
-        Azure Cognitive Services offer Custom Vision to train a custom computer vision model.
-    
-    ><p><b>v. Scikit-learn:</b><br>
-        A machine learning library for Python.
-    </div>
+NOTE ➡️ Azure Synapse Analytics and Azure Databricks offer more scalable compute options.
 
+<br>
 
-
-
-
--   Store data for model training workloads, using any of the below:
+- 3.3.  Store data for model training workloads, using any of the below:
 
     **i. Azure Blob Storage**: Cheapest
 
