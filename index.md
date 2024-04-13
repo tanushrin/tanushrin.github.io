@@ -1,7 +1,4 @@
----
-layout: default
-title: Home
----
+
 
 # How You Doin’? I’m Tanushri Nayak
 
