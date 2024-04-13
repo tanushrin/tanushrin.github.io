@@ -1,5 +1,39 @@
-Here you can say lots of fun things about your site.
+Ever wonder what it looks like when dedication meets opportunity!!
+> Say hello to Tanushri Nayak, who launched into the tech sphere straight from college, securing a coveted  position during an in-campus job interview in her third semester. As a college topper with a B.Tech in Computer Science from West Bengal University of Technology; knows as Maulana Abul Kalam Azad University of Technology.
+This ambivert yet ambitious woman didn't just enter the tech industry; she sprinted into it.
+___
+Navigating Global Tech Landscapes: From India to Switzerland and Back
+> Tanushri Nayak's journey took an exciting turn in Switzerland, where she was thrown into the deep end with IBM's WebSphere Operational Decision Management (WODM) at Credit Suisse. Amidst the high stakes of finance and technology, she not only mastered an unfamiliar technology but also honed her skills in sales and high-level client management, quickly becoming a Subject Matter Expert (SME). Her ability to adapt and excel in this challenging environment showcased her proficiency and quick learning capabilities.
 
-Maybe say a some things about yourself.
+>However, all good things come to an end, and as her visa concluded, she returned to India, where she transitioned into a project involving predictive analytics. It was here that her fascination with the possibilities of AI began to burgeon, sparked by her interactions with IBM Watson. This growing interest in artificial intelligence, coupled with her innate studious nature, propelled her to pursue a Master's degree in Computer Science—embracing academia once again in her 30s with unwavering enthusiasm.
 
-Or maybe what you plan to blog about.
+>Throughout her early career in the 2000s, Tanushri experienced the dynamic nature of tech development in India. Developers were often rotated across various projects post-production delivery—a practice aimed at cost-cutting, which serendipitously enriched her with exposure to a multitude of technologies, fortifying her adaptability and tech versatility.
+
+___
+Embracing Advanced Academia and Pioneering into Data Science
+
+> Fuelled by an enduring zeal for knowledge and a burgeoning interest in artificial intelligence, our tech enthusiast embarked on her next academic adventure in the United States in 2018.  At the prestigious State University of Buffalo, she pursued a Master's in Computer Science, where she immersed herself in cutting-edge research and innovative practices in the realm of Data Science and AI.
+
+>The shift to academia was driven by her fascination with the potential of AI to transform industries and her desire to be at the forefront of this technological revolution. During her master's program, she not only excelled in her studies but also contributed to research that aimed to harness the power of AI in practical and impactful ways.
+
+___
+Resilient Journey Through Academia and Personal Challenges
+
+> This dedicated scholar's academic journey took an unexpected turn when she began a PhD program, aiming to deepen her expertise in AI. However, the global pandemic in 2020 not only presented logistical challenges but also necessitated a return to India to care for her family during a critical time. Amidst battling hurdles, she made the difficult decision to pause her PhD studies.
+Her resilience shone through as she fought to reunite with her husband in Switzerland, navigating complex bureaucratic processes with determination. Undeterred by the twists her career and personal life took, she returned to Switzerland, determined to reforge her path in the tech industry.
+
+___
+Current Focus and Future Aspirations
+
+> Now, this resilient woman-in-tech is focused on reconnecting with the tech community in Switzerland and finding new opportunities to apply her advanced skills in Data Science and AI. In 2022, she further bolstered her expertise by completing an exhaustive three-month Data Science and AI bootcamp at Le Wagon Zurich, equipping her with cutting-edge techniques and tools in the rapidly evolving tech landscape. Open to diversifying her contributions, she is also well-equipped to engage in software development and consulting roles, leveraging her extensive background and expertise to drive innovation and efficiency in various tech domains. She is particularly interested in projects that blend AI with practical applications, aiming to create solutions that are not only innovative but also sustainable and ethically responsible.
+
+>Her blog serves as a platform to share her journey and insights with a broader audience, inspiring others who may be contemplating a late career shift into tech or academia. Passionate about the transformative power of education and continuous learning, she is a beacon for those looking to navigate the complexities of re-entering the tech industry after a hiatus, whether in emerging technologies or more traditional tech roles.
+
+___
+A Personal Touch
+
+>Outside the world of algorithms and analytics, Tanushri finds joy and inspiration in watercolor and acrylic painting, bringing vibrant colors to life on canvas. An avid hiker, she relishes the summer months exploring Switzerland's majestic landscapes. Traveling with her husband, she embraces the adventure of discovering new places, enriching her perspective and fueling her creative spirit. In quieter moments, she cherishes diving into novels, losing herself in stories that span genres and worlds, which complements her journey of continuous discovery and learning.
+
+
+
+
