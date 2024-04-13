@@ -4,39 +4,39 @@
 
 1\.  **Define the problem**:
 
-Decide on what the model should predict<img src="media/image3.svg" width="30" height="30">
-and when it\'s successful<img src="media/image5.svg" width="30" height="30">
+Decide on what the model should predict<img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image3.svg" width="30" height="30">
+and when it\'s successful<img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image5.svg" width="30" height="30">
  
-<img src="media/image1.png" width="300" height="300" alt="Thinking">
+<img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image1.png" width="300" height="300" alt="Thinking">
 
 ___
 
 2\.  **Get the data**:
 
 Find data sources
-<img src="media/image8.svg" width="30" height="30"><img src="media/image10.svg" width="30" height="30"><img src="media/image12.svg" width="30" height="30">and get access
-<img src="media/image14.svg" width="30" height="30">
+<img src="media/image8.svg" width="30" height="30"><img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image10.svg" width="30" height="30"><img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image12.svg" width="30" height="30">and get access
+<img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image14.svg" width="30" height="30">
 
-<img src="media/image6.png" width="300" height="300"> 
+<img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image6.png" width="300" height="300"> 
 
 ***Three Different data formats***
 
 1.  **Tabular** or **structured** data
-    <img src="media/image8.svg" width="30" height="30">
+    <img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image8.svg" width="30" height="30">
 
 2.  **Semi-structured** data:
 JSON: { \"deviceId\": 29482, \"location\": \"Office1\",
 \"time\":\"2021-07-14T12:47:39Z\", \"temperature\": 23 }
 
-3.  **Unstructured** data: <img src="media/image16.svg" width="30" height="30"><img src="media/image18.svg" width="30" height="30"><img src="media/image20.svg" width="30" height="30"><img src="media/image22.svg" width="30" height="30">
+3.  **Unstructured** data: <img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image16.svg" width="30" height="30"><img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image18.svg" width="30" height="30"><img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image20.svg" width="30" height="30"><img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image22.svg" width="30" height="30">
 
 Once you've identified the data source, the original data format, and
 the desired data format, then, you can design a data ingestion pipeline
 to automatically extract and transform the data you need.
 ___
 
-3\. **Prepare the data**: Explore the data. Clean <img src="media/image24.svg" width="30" height="30">and
-transform<img src="media/image26.svg" width="30" height="30"> the data based on the model\'s
+3\. **Prepare the data**: Explore the data. Clean <img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image24.svg" width="30" height="30">and
+transform<img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image26.svg" width="30" height="30"> the data based on the model\'s
 requirements.
 
 -   Separate compute from storage
@@ -77,25 +77,25 @@ requirements.
 
     **i. Azure Blob Storage**: Cheapest
 
-<img src="media/image27.png" width="300" height="300" alt="Thinking"> 
+<img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image27.png" width="300" height="300" alt="Thinking"> 
 
    **ii. Azure Data Lake Storage (Gen 2)**: also implements a hierarchical
     namespace
 
-<img src="media/image28.png" width="300" height="300" alt="Thinking"> 
+<img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image28.png" width="300" height="300" alt="Thinking"> 
 
    **iii. Azure SQL Database**:
 
-<img src="media/image29.png" width="300" height="300" alt="Thinking"> 
+<img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image29.png" width="300" height="300" alt="Thinking"> 
 
 ___
 
 4\. **Train the model**: Choose an algorithm
-<img src="media/image31.svg" width="30" height="30">and hyperparameter values based on trial
+<img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image31.svg" width="30" height="30">and hyperparameter values based on trial
 and error.
 ___
 
-5\. **Integrate the model**: Deploy to an endpoint to generate <img src="media/image33.svg" width="30" height="30">predictions <img src="media/image35.svg" width="30" height="30">
+5\. **Integrate the model**: Deploy to an endpoint to generate <img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image33.svg" width="30" height="30">predictions <img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image35.svg" width="30" height="30">
 ___
-6\. **Monitor the model**: Track <img src="media/image37.svg" width="30" height="30"> the model\'s performance
+6\. **Monitor the model**: Track <img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image37.svg" width="30" height="30"> the model\'s performance
 ___
