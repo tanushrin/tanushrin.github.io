@@ -51,24 +51,25 @@ requirements.
         tasks that move and transform the data
     
 
-     ***Choices to create a pipeline:***   
+     ***Choices to create a pipeline:***
+     >
     <div style="padding-left: 20px;">
         
-    <p><b>i. Azure Synapse Analytics/Azure Synapse Pipelines:</b><br>
-        This tool can be configured using an easy-to-use UI, or by defining the pipeline in JSON format. It uses different types of computes such as serverless SQL pools, dedicated SQL pools, or Spark pools.</p>
+    ><p><b>i. Azure Synapse Analytics/Azure Synapse Pipelines:</b><br>
+        This tool can be configured using an easy-to-use UI, or by defining the pipeline in JSON format. It uses different types of computes such as serverless SQL pools, dedicated SQL pools, or Spark pools.
     
-    <p><b>ii. Azure Databricks:</b><br>
-        If you prefer a code-first tool and to use SQL, Python, or R. It uses Spark clusters.</p>
+    ><p><b>ii. Azure Databricks:</b><br>
+        If you prefer a code-first tool and to use SQL, Python, or R. It uses Spark clusters.
     
-    <p><b>iii. Azure Machine Learning:</b><br>
-        Provides compute clusters that automatically scale up and down.<br>
-        <strong>NOTE:</strong> Azure Synapse Analytics and Azure Databricks offer more scalable compute options.</p>
+    ><p><b>iii. Azure Machine Learning:</b><br>
+        Provides compute clusters that automatically scale up and down.
+        NOTE➡️ Azure Synapse Analytics and Azure Databricks offer more scalable compute options.
     
-    <p><b>iv. Azure Cognitive Services:</b><br>
-        Azure Cognitive Services offer Custom Vision to train a custom computer vision model.</p>
+    ><p><b>iv. Azure Cognitive Services:</b><br>
+        Azure Cognitive Services offer Custom Vision to train a custom computer vision model.
     
-    <p><b>v. Scikit-learn:</b><br>
-        A machine learning library for Python.</p>
+    ><p><b>v. Scikit-learn:</b><br>
+        A machine learning library for Python.
     </div>
 
 
@@ -103,4 +104,6 @@ ___
 ___
 
 6\. **Monitor the model**: Track <img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image37.svg" width="30" height="30"> the model\'s performance
+
 ___
+
