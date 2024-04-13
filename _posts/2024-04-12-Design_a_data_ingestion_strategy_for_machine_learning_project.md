@@ -52,7 +52,7 @@ requirements.
     
 
      ***Choices to create a pipeline:***
-     >
+     
     <div style="padding-left: 20px;">
         
     ><p><b>i. Azure Synapse Analytics/Azure Synapse Pipelines:</b><br>
@@ -105,5 +105,4 @@ ___
 
 6\. **Monitor the model**: Track <img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image37.svg" width="30" height="30"> the model\'s performance
 
-___
 
