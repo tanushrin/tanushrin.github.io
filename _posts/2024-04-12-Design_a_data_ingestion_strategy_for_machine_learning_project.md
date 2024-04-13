@@ -33,7 +33,9 @@ JSON: { \"deviceId\": 29482, \"location\": \"Office1\",
 Once you've identified the data source, the original data format, and
 the desired data format, then, you can design a data ingestion pipeline
 to automatically extract and transform the data you need.
+
 ___
+
 
 3\. **Prepare the data**: Explore the data. Clean <img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image24.svg" width="30" height="30">and
 transform<img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image26.svg" width="30" height="30"> the data based on the model\'s
