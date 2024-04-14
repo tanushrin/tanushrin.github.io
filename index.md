@@ -3,7 +3,7 @@
 ### How You Doin’? 
 # I’m Tanushri Nayak
 
-You might say I’ve been coding long enough to navigate both warp speeds and hyperdrives—but wait for it—without a single dilithium crystal or hyperdrive malfunction! After 11 years navigating the tech galaxies of both the Alpha and Outer Rim, and an intensive voyage through the realms of academia, I’ve returned, ready to share my cache of knowledge and experiences.
+You might say I’ve been coding long enough to navigate both warp speeds and hyperdrives—but wait for it—I’ve done it all without needing a wand or a visit to Hogwarts!"! After 11 years navigating the tech galaxies of both the Alpha and Outer Rim, and an intensive voyage through the realms of academia, I’ve returned, ready to share my cache of knowledge and experiences.
 
 Curious about my interstellar journey from tech pro to academia and back into the industry? It’s like an episode of "The Big Bang Theory," but with more actual science and fewer laugh tracks. And for those who've been wondering—yes, *I Know*! It sounds like a sitcom setup!
 
