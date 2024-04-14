@@ -95,4 +95,69 @@ ___
 
 6\. **Monitor the model**: Track <img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image37.svg" width="30" height="30"> the model\'s performance
 
+___
+
+Quiz Time
+=========
+
+
+>**Q**: Which storage solution would you recommend to store the data?
+We want our design to be future-proof and ready for scale. We want to extract the privacy-sensitive data from the patient database and store the data in an Azure data storage solution.
+
+**Ask**: Who should get access to the data?
+
+Data scientists will work with the data in the storage solution. Since we're working with privacy-sensitive medical data, we need a solution that allows us to give someone access only to a specific file or folder.
+
+**Ask**: How should the data be stored?
+
+Our data scientists prefer working with the raw data in CSV files. They have no experience with SQL tables.
+
+**Answer**: 
+An *Azure Data Lake* will allow us to store the data as CSV files, and make use of the hierarchical namespace to have more granular control over who has access to what.
+|---|
+
+>**Q**:Which tool would you recommend we use to move the data?
+We need to extract data from the patient database and load it into the Azure Data Lake.
+
+**Ask**: Which tool will you use to train the model?
+
+We'll train the machine learning model with either Azure Synapse Analytics, Azure Databricks, or Azure Machine Learning.
+
+**Ask**: Which cloud services do you already use for data-related projects?
+
+Our data engineers already work with Azure to get insights from operational data. They ingest and transform data with Azure Synapse Analytics, store it in an Azure SQL Database, and visualize the data with Power BI.
+
+**Answer**: 
+*Azure Synapse Analytics* sounds like a good fit for us at the moment. It’ll allow us to set up a secure connection to the patient database and create automated pipelines to move the data from the database to the Azure Data Lake.
+|---|
+
+>**Q**: Which tool should we use to anonymize the patient data?
+When we automatically extract data from the patient database, we want the data to be anonymized. We must delete all personally identifiable information (PII).
+
+**Ask**: Who will be responsible of configuring the transformations of the data?
+
+Anonymizing data seems like a simple task. Ideally, this task would be performed by the data engineer. However, we would like data scientists to be able to do this even when a data engineer is not available, possibly through an easy-to-use interface?
+
+**Ask**: How much data do you have?
+
+Since we want to train the model on as much data as possible, the tool should be able to handle large amounts of data.
+
+**Answer**: 
+Let’s indeed stick with *Azure Synapse Analytics*. We can connect to the patient database, perform any necessary transformations, and move the data to the Azure Data Lake. Anyone will be able to configure the transformations using the easy-to-use mapping data flow in Azure Synapse Analytics.
+|---|
+
+>**Q**: Which architecture represents the proposed data ingestion solution?
+It’d be good to have an overview of all the decisions we discussed.
+
+**Ask**: Where will we store the data?
+
+We decided to store the data in a Azure Data Lake Storage.
+
+**Ask**: How will we ingest the data?
+
+We decided to ingest the data with Azure Synapse Analytics.
+
+**Answer**: 
+Data inspection ---> Data ingestion through Azure Synapse Analytics ----> Data storage in Azure DLS
+|---|
 
