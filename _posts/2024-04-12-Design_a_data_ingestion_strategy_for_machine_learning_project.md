@@ -112,9 +112,13 @@ Data scientists will work with the data in the storage solution. Since we're wor
 
 Our data scientists prefer working with the raw data in CSV files. They have no experience with SQL tables.
 
-**Answer**: 
-An *Azure Data Lake* will allow us to store the data as CSV files, and make use of the hierarchical namespace to have more granular control over who has access to what.
-|---|
+<table>
+  <tr>
+    <th><strong>Answer:</strong></th>
+    <td>An <em>Azure Data Lake</em> will allow us to store the data as CSV files, and make use of the hierarchical namespace to have more granular control over who has access to what.</td>
+  </tr>
+</table>
+
 
 >**Q**:Which tool would you recommend we use to move the data?
 We need to extract data from the patient database and load it into the Azure Data Lake.
@@ -127,9 +131,12 @@ We'll train the machine learning model with either Azure Synapse Analytics, Azur
 
 Our data engineers already work with Azure to get insights from operational data. They ingest and transform data with Azure Synapse Analytics, store it in an Azure SQL Database, and visualize the data with Power BI.
 
-**Answer**: 
-*Azure Synapse Analytics* sounds like a good fit for us at the moment. It’ll allow us to set up a secure connection to the patient database and create automated pipelines to move the data from the database to the Azure Data Lake.
-|---|
+<table>
+  <tr>
+    <th><strong>Answer:</strong></th>
+    <td><em>Azure Synapse Analytics</em> sounds like a good fit for us at the moment. It’ll allow us to set up a secure connection to the patient database and create automated pipelines to move the data from the database to the Azure Data Lake.</td>
+   </tr>
+</table>
 
 >**Q**: Which tool should we use to anonymize the patient data?
 When we automatically extract data from the patient database, we want the data to be anonymized. We must delete all personally identifiable information (PII).
@@ -142,9 +149,12 @@ Anonymizing data seems like a simple task. Ideally, this task would be performed
 
 Since we want to train the model on as much data as possible, the tool should be able to handle large amounts of data.
 
-**Answer**: 
-Let’s indeed stick with *Azure Synapse Analytics*. We can connect to the patient database, perform any necessary transformations, and move the data to the Azure Data Lake. Anyone will be able to configure the transformations using the easy-to-use mapping data flow in Azure Synapse Analytics.
-|---|
+<table>
+  <tr>
+    <th><strong>Answer:</strong></th>
+    <td>Let’s indeed stick with <em>Azure Synapse Analytics</em>. We can connect to the patient database, perform any necessary transformations, and move the data to the Azure Data Lake. Anyone will be able to configure the transformations using the easy-to-use mapping data flow in Azure Synapse </td>
+   </tr>
+</table>
 
 >**Q**: Which architecture represents the proposed data ingestion solution?
 It’d be good to have an overview of all the decisions we discussed.
@@ -157,7 +167,10 @@ We decided to store the data in a Azure Data Lake Storage.
 
 We decided to ingest the data with Azure Synapse Analytics.
 
-**Answer**: 
-Data inspection ---> Data ingestion through Azure Synapse Analytics ----> Data storage in Azure DLS
-|---|
+<table>
+  <tr>
+    <th><strong>Answer:</strong></th>
+    <td>Data inspection ---> Data ingestion through Azure Synapse Analytics ----> Data storage in Azure DLS</td>
+   </tr>
+</table>
 
