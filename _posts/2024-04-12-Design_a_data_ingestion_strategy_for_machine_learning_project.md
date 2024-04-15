@@ -13,14 +13,15 @@ ___
 
 2\.  **Get the data**:
 
-Find data sources
-<img src="media/image8.svg" width="30" height="30"><img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image10.svg" width="30" height="30"><img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image12.svg" width="30" height="30">and get access
+Find data sources <img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image8.svg" width="30" height="30"><img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image10.svg" width="30" height="30"><img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image12.svg" width="30" height="30">and get access
 <img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image14.svg" width="30" height="30">
 
 <img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image6.png" width="300" height="300"> 
 
+
 ***Three Different data formats***
-|---|
+|--------------------------------|
+
 
 1.  **Tabular** or **structured** data
     <img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image8.svg" width="30" height="30">
@@ -173,4 +174,10 @@ We decided to ingest the data with Azure Synapse Analytics.
     <td>Data inspection ---> Data ingestion through Azure Synapse Analytics ----> Data storage in Azure DLS</td>
    </tr>
 </table>
+
+
+
+---
+**Acknowledgment:** This article is inspired by and includes insights derived from [Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/design-data-ingestion-strategy-for-machine-learning-projects/). Microsoft Learn is a valuable resource for in-depth knowledge on this topic and many others. I encourage readers to explore their modules for further information.
+
 
