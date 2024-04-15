@@ -19,9 +19,8 @@ Find data sources <img src="https://raw.githubusercontent.com/tanushrin/tanushri
 <img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image6.png" width="300" height="300"> 
 
 
-***Three Different data formats***
-|--------------------------------|
-
+| ***Three Different Data Formats*** |
+|------------------------------------|
 
 1.  **Tabular** or **structured** data
     <img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/image8.svg" width="30" height="30">
