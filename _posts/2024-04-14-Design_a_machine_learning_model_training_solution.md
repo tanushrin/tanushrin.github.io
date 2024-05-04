@@ -183,6 +183,9 @@ Knowledge Check
   </tr>
 </table>
 
+---
+**Acknowledgment:** This article is inspired by and includes insights derived from [Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/design-machine-learning-model-training-solution/). Microsoft Learn is a valuable resource for in-depth knowledge on this topic and many others. I encourage readers to explore their modules for further information.
+
 
 
 
