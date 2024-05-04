@@ -1,11 +1,16 @@
 
 
-### How You Doin’? 
-# I’m Tanushri Nayak
+### How You Doin’?
 
-You might say I’ve been coding long enough to navigate both warp speeds and hyperdrives—but wait for it—I’ve done it all without needing a wand or a visit to Hogwarts!"! After 11 years navigating the tech galaxies of both the Alpha and Outer Rim, and an intensive voyage through the realms of academia, I’ve returned, ready to share my cache of knowledge and experiences.
+#### I’m Tanushri Nayak 👋
 
-Curious about my interstellar journey from tech pro to academia and back into the industry? It’s like an episode of "The Big Bang Theory," but with more actual science and fewer laugh tracks. And for those who've been wondering—yes, *I Know*! It sounds like a sitcom setup!
+- Your friendly neighborhood (no, no, not Spiderman but) tech enthusiast, bookworm, and globe-trotter!
+
+
+You might say I’ve been coding long enough to navigate both warp speeds and hyperdrives—but wait for it—I’ve done it all without needing a wand or a visit to Hogwarts! After 11 years navigating the tech galaxies of both the Alpha and Outer Rim, and an intensive voyage through the realms of academia, I’ve returned, ready to share my cache of knowledge and experiences.
+
+Curious about my interstellar journey from tech pro to academia and back into the industry? <br>
+It’s like an episode of "The Big Bang Theory," but with more actual science and fewer laugh tracks. And for those who've been wondering—yes, *I Know*! It sounds like a sitcom setup!
 
 👉 Beam up to this blog post to know about me: [Back to the Future: My Journey from Tech Pro to Academia and Back Again]({% post_url 2024-04-11-Who-Am-I %}).
 
