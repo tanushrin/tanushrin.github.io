@@ -8,9 +8,7 @@ Your friendly neighborhood (no, no, not Spiderman but) tech enthusiast, bookworm
 <br>
 
 ____
-
-
-
+<br>
 You might say I’ve been coding long enough to navigate both warp speeds and hyperdrives—but wait for it—I’ve done it all without needing a wand or a visit to Hogwarts (rather at the enchanting halls of  <img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/University_at_Buffalo_logo.png" width="80" height="30"> SUNY Buffalo and <img src="https://raw.githubusercontent.com/tanushrin/tanushrin.github.io/main/_posts/media/Maulana_Abul_Kalam_Azad_University_of_Technology_Logo.svg" width="30" height="30"> WBUT)! 
 
 
