@@ -1,8 +1,8 @@
 
 
-### How You Doin’?
+#### How You Doin’?
 
-#### I’m Tanushri Nayak 👋
+### **I’m Tanushri Nayak** 👋
 
 - Your friendly neighborhood (no, no, not Spiderman but) tech enthusiast, bookworm, and globe-trotter!
 
