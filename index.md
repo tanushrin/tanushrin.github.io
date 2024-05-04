@@ -11,7 +11,7 @@ You might say I’ve been coding long enough to navigate both warp speeds and hy
 
 After 11 years navigating the tech galaxies of both the Alpha and Outer Rim, and an intensive voyage through the realms of academia, I’ve returned, ready to share my cache of knowledge and experiences.
 
-Curious about my interstellar journey from tech pro to academia and back into the industry? <br>
+Curious about my interstellar journey from tech pro to academia and back into the industry? <br><br>
 It’s like an episode of "The Big Bang Theory," but with more actual science and fewer laugh tracks. And for those who've been wondering—yes, *I Know*! It sounds like a sitcom setup!
 
 👉 Beam up to this blog post to know about me: [Back to the Future: My Journey from Tech Pro to Academia and Back Again]({% post_url 2024-04-11-Who-Am-I %}).
