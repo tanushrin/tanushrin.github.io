@@ -1,3 +1,5 @@
+## Blogs and Logs: Recording Adventures in Code and Prose
+
 Life isn't a straight line -- it's more like a closet. 
 
 
