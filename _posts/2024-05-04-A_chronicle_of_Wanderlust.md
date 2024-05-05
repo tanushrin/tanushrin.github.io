@@ -20,7 +20,7 @@ Together, we have ventured through 23 countries 🇮🇳 🇨🇭 🇮🇹 🇫�
 
 
 Each flag not only represents a country visited but also countless stories, meals shared, and souvenirs collected.
-____
+
 
 **Switzerland 🏔️ - views at Saxer Lücke, Männlichen, Harder Kulm**
 ![Swiss Mountains](https://github.com/tanushrin/tanushrin.github.io/blob/main/_posts/media/Swiss_mountains.jpg?raw=true)
@@ -70,7 +70,9 @@ Yours in wanderlust,
 <br>
 TN
 <br>
-- Pioneering Paths in Tech and Beyond: In Pursuit of Code and Curiosities to Build Tomorrow
+(Pioneering Paths in Tech and Beyond: In Pursuit of Code and Curiosities to Build Tomorrow)
+
+
 
 --- 
 
