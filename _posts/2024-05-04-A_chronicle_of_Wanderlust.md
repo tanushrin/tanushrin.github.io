@@ -61,7 +61,7 @@ Out of the thousands of photographs, I’ve selected just three for now, known t
 And so, dear readers, as I pen this one from one of my favourite cafes [Gaps cup Baden](https://www.google.com/maps/place/GapsCup+GmbH/@47.4750889,8.3031377,17z/data=!4m16!1m9!3m8!1s0x47906d9f5deff4bd:0x8fdc243c46dff2ef!2sGapsCup+GmbH!8m2!3d47.4750889!4d8.305718!9m1!1b1!16s%2Fg%2F11fqpnvzh6!3m5!1s0x47906d9f5deff4bd:0x8fdc243c46dff2ef!8m2!3d47.4750889!4d8.305718!16s%2Fg%2F11fqpnvzh6?entry=ttu),surrounded by its charming swings and hanging chairs, I invite you to join us as we prepare to embark on our latest expedition to [Portugal](https://en.wikipedia.org/wiki/Portugal). It promises vistas as breathtaking as any painted by Monet 🎨 or captured by Christopher Nolan's lens 🎬.
 
 **Portugal Preview**
-![Portugal Preview](https://github.com/tanushrin/tanushrin.github.io/blob/main/_posts/media/Cabo_Da_Roca.jpeg)  
+![Portugal Preview](https://github.com/tanushrin/tanushrin.github.io/blob/main/_posts/media/Cabo_Da_Roca.jpg) 
 
 Do stay tuned, for our tales are far from over, served with a side of grandeur and a dash of humor!
 
