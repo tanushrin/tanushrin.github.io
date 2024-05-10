@@ -43,3 +43,15 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
+
+/* Style for abbreviation tooltips */
+abbr[title] {
+    border-bottom: 1px dotted #666; /* Dotted underline to indicate hoverable */
+    cursor: help; /* Cursor changes to help icon on hover */
+    text-decoration: none; /* No text decoration by default */
+}
+
+abbr[title]:hover {
+    text-decoration: underline; /* Underline on hover for emphasis */
+}
+
