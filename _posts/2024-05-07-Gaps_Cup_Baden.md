@@ -24,6 +24,40 @@ Each visit to Gaps Cup is more than just a beverage; it's an <abbr title="Advent
 ![Image of coffee machines at Gaps Cup](https://github.com/tanushrin/tanushrin.github.io/blob/main/_posts/media/Gaps_coffee_sale.jpg?raw=true)
 
 
+### P.S.: Lost in Translation? Here’s a Little Help!
+
+Ever feel like your brain is juggling with words when hopping between English and German? Fear not! Here’s a handy-dandy glossary to help you navigate through the caffeinated and vibrant jungles of this post:
+
+- **Kaffee** (Coffee) - The magical potion that turns "leave me alone" into "Good morning, honey!"
+- **Gemütlich** (Cozy) - How you feel in a cafe corner with a good book and even better coffee.
+- **Geschichte** (Story) - What you tell your friends about how you discovered the best café in town.
+- **Lebendig** (Vibrant) - The buzz you hear in a café that's not just from the espresso machine.
+- **Stimmung** (Atmosphere) - That thing that hits you right when you walk into Gaps Cup and think, "Yep, I'm staying."
+- **Kunst** (Art) - Not just what hangs on the walls, but what tops your cappuccino.
+- **Familie** (Family) - Those lovely people at Gaps Cup who make you feel like you're at your second home.
+- **Liebenswerten** (Lovely) - How you describe anything or anyone associated with your favorite coffee spot.
+- **Willkommen** (Welcome) - What you feel every time you step into Gaps Cup, not just a greeting!
+- **Gebrauten** (Brewed) - The past tense of your coffee, because it’s ready to meet its destiny in your cup.
+- **Genüsse** (Delights) - Every bite and sip here that makes your taste buds do a happy dance.
+- **Dekadenten** (Decadent) - How every dessert at the café begs to be described.
+- **Handwerk** (Craft) - What the barista masters when they make that perfect swirl on your latte.
+- **Außergewöhnliche** (Extraordinary) - Ordinary’s arch-nemesis, commonly spotted lurking in lattes here.
+- **Hängestühle** (Hanging chairs) - Because why sit on a regular chair when you can dangle delightfully?
+- **Nische** (Nook) - That cozy corner where you tuck in with your laptop or a good book.
+- **Stärken** (Strengths) - Not just personal attributes, but also how intense your coffee is.
+- **Geschmacksrichtungen** (Flavorings) - The extras you add to make your coffee uniquely yours.
+- **Bohnen** (Beans) - These little guys are the unsung heroes behind every great coffee saga.
+- **Abende** (Evenings) - When Gaps Cup turns from a coffee haven to a DJ-spinning, latte-sipping party.
+- **Abenteuer** (Adventure) - What you embark on with each new coffee flavor.
+- **Türen** (Doors) - What stands between you and your coffee... but not for long.
+- **Zeit** (Time) - Something you forget about once you're sipping coffee at Gaps Cup.
+
+<br>
+
+Remember, each sip may improve your German, or at least your appreciation for the language. Prost to learning and caffeine!
+
+
+
 
 
 
